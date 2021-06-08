@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ReapersRooms",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
